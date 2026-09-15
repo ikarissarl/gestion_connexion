@@ -1,0 +1,38 @@
+[
+    {
+        "nom": "kabongo",
+        "postnom": "kadi",
+        "prenom": "marie",
+        "email": "kabongo007@gmail.com",
+        "sex": "F",
+        "pass": "mama360",
+        "username": "mindflow"
+    },
+    {
+        "nom": "mibo",
+        "postnom": "badi",
+        "prenom": "justin",
+        "email": "mibobadi360@gmail.com",
+        "sex": "M",
+        "pass": "mama360",
+        "username": "mastermind"
+    },
+    {
+        "nom": "kabe",
+        "postnom": "ladi",
+        "prenom": "marie",
+        "email": "marieladi243@gmail.com",
+        "sex": "F",
+        "pass": "1234567",
+        "username": "forestgirl70"
+    },
+    {
+        "nom": "hu",
+        "postnom": "wang",
+        "prenom": "lee",
+        "email": "wanglee00@gmail.com",
+        "genre": "M",
+        "pass": "8890979797",
+        "username": "hwl-coder"
+    }
+]
