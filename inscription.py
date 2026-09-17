@@ -31,7 +31,7 @@ def inscription():
             with smtplib.SMTP_SSL(cfg["serveur"], cfg["port"]) as smtp:
                 smtp.login(cfg["gmail"], cfg["pwd"])
                 smtp.send_message(msg)
-                print("message envoye")
+                print("code envoye")
             break
         except smtplib.SMTPRecipientsRefused:
             print("email incorrect, veuillez verifier votre email")
