@@ -92,7 +92,7 @@ def inscription():
     print("loading...")
     print("compte cree avec succes")
     print(f"bienvenue {username}")
-inscription()
+
 
 
 
